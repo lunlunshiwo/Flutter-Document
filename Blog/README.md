@@ -1,1 +1,4 @@
-Blog文件夹中存放我在掘金或者博客园发布的博客文档
+> 相关账号还有关于web前端相关的博客，[掘金](https://juejin.im/user/5a3782085188252bca04f77f/posts)/[博客园](https://www.cnblogs.com/lunlunshiwo/)
+### Flutter路由的跳转、动画与传参.md
+- 掘金：[Flutter路由的跳转、动画与传参.md](https://juejin.im/post/5bf61caee51d45194266abc0)
+- 博客园：[Flutter路由的跳转、动画与传参.md](https://www.cnblogs.com/lunlunshiwo/p/9999915.html)
