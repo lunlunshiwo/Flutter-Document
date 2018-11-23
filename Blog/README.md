@@ -2,3 +2,6 @@
 ### Flutter路由的跳转、动画与传参.md
 - 掘金：[Flutter路由的跳转、动画与传参.md](https://juejin.im/post/5bf61caee51d45194266abc0)
 - 博客园：[Flutter路由的跳转、动画与传参.md](https://www.cnblogs.com/lunlunshiwo/p/9999915.html)
+### Flutter数据持久化入门以及与Web开发的对比.md
+- 掘金：[Flutter数据持久化入门以及与Web开发的对比.md](https://juejin.im/post/5bf7b4a06fb9a049db72c756)
+- 博客园：[Flutter数据持久化入门以及与Web开发的对比.md](https://www.cnblogs.com/lunlunshiwo/p/10008193.html)
